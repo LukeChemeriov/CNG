@@ -3,7 +3,7 @@ How to solve the countdown numbers game!
 I have developed an ability to solve most numbers of the countdown numbers game (even the ones that don't follow the rules - Смотрю на тебя, бабушка)
 
 Most of the time, I simply read the question and my brain provides an answer.
-If not, this is what I do.
+If not, this is what I do. What do I do when I don't need it? [This](#what-do-i-usually-do)
 
 Algorithm
 ---------
@@ -70,4 +70,5 @@ So now the search for a solution just works as follows:
 
 Hope it helps you :)
 
-Btw, the reason I can do it so fast is because I have [Hypercalculia](https://en.wikipedia.org/wiki/Hypercalculia)
+### What do I usually do
+The reason I can do it so fast is because I have [Hypercalculia](https://en.wikipedia.org/wiki/Hypercalculia)
