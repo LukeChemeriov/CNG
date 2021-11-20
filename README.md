@@ -1,4 +1,4 @@
-# CNG
+# CNG - Countdown Numbers Game
 How to solve the countdown numbers game!
 I have developed an ability to solve most numbers of the countdown numbers game (even the ones that don't follow the rules - Смотрю на тебя, бабушка)
 
